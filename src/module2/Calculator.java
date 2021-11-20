@@ -36,6 +36,7 @@ public class Calculator {
         }
         if(check) {
             System.out.println(opperand1);
+            System.out.println();
         }
     }
 }
